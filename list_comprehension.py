@@ -30,4 +30,6 @@ print(res)
 #   list of words ["ab", "hello", "cd", "python", "proffesional", "world", "ef"]
 # create a list of NUMBERS from all of the stringw which represent a number (hint: isdigit)
 #   list of words ["123", "ab", "5", "77", "88f", "9"]
+# create a list of numbers divided by 3 from a given list only if it can be divided without 
+# a reminder: the list - [9, 6, 10, 12, 15, 19, 21]
 
