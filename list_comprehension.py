@@ -17,4 +17,13 @@ res = [i * j for i in range(1, 4) for j in range(1, 4)]
 print(res)
 
 
+# create a list of all of the last letter in the 
+#   list of words ["hello", "python", "proffesional", "world"]
+# create a list of all of the upper case letters in  
+#   list of words ["hello", "python", "proffesional", "world"]
+# create a list of 100 random numbers
+# matrix = [[1,2,3], [4,5,6], [7,8,9]
+#   create a list of all sub list in position 0
+# create a list of even numbers between 1 and 200
+# 
 
