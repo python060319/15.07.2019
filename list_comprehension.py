@@ -25,5 +25,5 @@ print(res)
 # matrix = [[1,2,3], [4,5,6], [7,8,9]
 #   create a list of all sub list in position 0
 # create a list of even numbers between 1 and 200
-# 
+# input 5 numbers for the user into a list
 
