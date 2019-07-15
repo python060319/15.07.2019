@@ -33,4 +33,6 @@ print(res)
 #   list of words ["123", "ab", "5", "77", "88f", "9"]
 # create a list of numbers divided by 3 from a given list only if it can be divided without 
 # a reminder: the list - [9, 6, 10, 12, 15, 19, 21]
+# m = [ [8, 3, 100, -2, 15], [7, 10, 5, 2, 102], [-4 -5 -10 -2 1000] ]
+#   create a sorted list : [ [-2, 3, 8, 15] , [2, 5 ... ] ... ]
 
