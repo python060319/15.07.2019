@@ -28,6 +28,6 @@ print(res)
 # input 5 numbers for the user into a list
 # create a list of all of the words which are longer then 2 characters
 #   list of words ["ab", "hello", "cd", "python", "proffesional", "world", "ef"]
-# create a list of numbers from all of the stringw which represent a number (hint: isdigit)
+# create a list of NUMBERS from all of the stringw which represent a number (hint: isdigit)
 #   list of words ["123", "ab", "5", "77", "88f", "9"]
 
